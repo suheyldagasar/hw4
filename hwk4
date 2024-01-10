@@ -1,1 +1,3 @@
-
+git config user.name "Suheyl Dagasar"
+git config user.email "shl.dagasar@hotmail.com"
+cat .git/config
